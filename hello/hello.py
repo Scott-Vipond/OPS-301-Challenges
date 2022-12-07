@@ -1,4 +1,4 @@
-# Not sure what is used here for Python scripts!
+#!/usr/bin/env python3
 
 # Script: Python setup
 # Author: Scott Vipond                      
