@@ -6,7 +6,7 @@
 # Purpose: OPS-301 Python setup Ubuntu VM
 
 # Basic function
-msg= "Hello World"
+msg = "Hello World"
 print(msg)
 
 # End
