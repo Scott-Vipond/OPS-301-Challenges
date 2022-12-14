@@ -16,12 +16,12 @@
 # https://replit.com/@HexxKing1/Ops-301d7-Challenge-02#main.sh
 
 # Variables for the different portions of the date and time needed for script, none were used in script
-year=`date +%Y`
-month=`date +%m`
-day=`date +%d`
-hour=`date +%H`
-minute=`date +%M`
-second=`date +%S`
+# year=`date +%Y`
+# month=`date +%m`
+# day=`date +%d`
+# hour=`date +%H`
+# minute=`date +%M`
+# second=`date +%S`
 
 # Test echo commands to ensure above variables function as expected
 # echo `date`
