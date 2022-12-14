@@ -21,9 +21,10 @@
 echo "Please enter directory path: "
 read dirpath
 
-#Create directory for user path
+#Create directory for user path and change into it
 mkdir $dirpath
-cd $dirpath
+sleep .5 #allows computer to create user directory
+cd $dirpath #still unable to cd into user diretory after 45 minutes of testing
 
 #Create a testfile to illustrate permission changes
 touch testfile.txt
